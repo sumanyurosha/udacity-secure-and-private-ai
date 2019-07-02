@@ -1,7 +1,7 @@
 #60 Days of Udacity, started on 29th June, 2019
 
 #Day 1
-Started Lesson 4.
+  Started Lesson 4.
 
 #Day 2:
 1. Revising the basics of ML algos. 
@@ -13,5 +13,5 @@ Started Lesson 4.
 2. Revised first 20 videos of lesson 2, Intro to PyTorch
 
 #Day 4:
-Progressed further in lesson 5 and just 2 videos away from completing lesson 5.
-Planning to complete lesson 5 by EOD tomorrow.
+1. Progressed further in lesson 5 and just 2 videos away from completing lesson 5.
+2. Planning to complete lesson 5 by EOD tomorrow.
