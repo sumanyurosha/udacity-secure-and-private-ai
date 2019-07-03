@@ -1,6 +1,6 @@
 #60 Days of Udacity, started on 29th June, 2019
 
-#Day 1
+#Day 1:
   Started Lesson 4.
 
 #Day 2:
@@ -15,3 +15,6 @@
 #Day 4:
 1. Progressed further in lesson 5 and just 2 videos away from completing lesson 5.
 2. Planning to complete lesson 5 by EOD tomorrow.
+
+#Day 5:
+    Completed Lesson 5.
