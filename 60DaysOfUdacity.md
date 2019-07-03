@@ -16,7 +16,7 @@
 1. Progressed further in lesson 5 and just 2 videos away from completing lesson 5.
 2. Planning to complete lesson 5 by EOD tomorrow.
 
-#Day 5: 
-1.) Completed Lesson 5.
-2.) Watched a video on Privacy by Siraj Rawal (https://youtu.be/39hNjnhY7cY)
-3.) Read an article on Neural Networks (https://medium.com/towards-artificial-intelligence/one-lego-at-a-time-explaining-the-math-of-how-neural-networks-learn-with-implementation-from-scratch-39144a1cf80)
+#Day 5:
+1. Completed Lesson 5.
+2. Watched a video on Privacy by Siraj Rawal (https://youtu.be/39hNjnhY7cY)
+3. Read an article on Neural Networks (https://medium.com/towards-artificial-intelligence/one-lego-at-a-time-explaining-the-math-of-how-neural-networks-learn-with-implementation-from-scratch-39144a1cf80)
