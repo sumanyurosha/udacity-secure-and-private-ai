@@ -20,3 +20,10 @@
 1. Completed Lesson 5.
 2. Watched a video on Privacy by Siraj Rawal (https://youtu.be/39hNjnhY7cY)
 3. Read an article on Neural Networks (https://medium.com/towards-artificial-intelligence/one-lego-at-a-time-explaining-the-math-of-how-neural-networks-learn-with-implementation-from-scratch-39144a1cf80)
+
+#Day 6: 
+Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involved in the videos and cleared doubts on it by asking in the slack community.
+
+#Day 7:
+1. Continued working on later videos of lesson 5, mostly about Global Differential Privacy.
+2. Watched video no. 20 to 32 in lesson 2 from Intro to PyTorch course on Udacity.
