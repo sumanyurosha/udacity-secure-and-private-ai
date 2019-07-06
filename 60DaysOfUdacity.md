@@ -27,3 +27,9 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 #Day 7:
 1. Continued working on later videos of lesson 5, mostly about Global Differential Privacy.
 2. Watched video no. 20 to 32 in lesson 2 from Intro to PyTorch course on Udacity.
+
+#Day 8:
+1. Completed and revised lesson 5 and got better clarity about Global and Local Differential Privacy.
+2. Joined study groups and expecting to attend my first virtual meetup tommorow.
+3. Read an article for Getting started on Kaggle(https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0)
+4. Working on my first submission on Kaggle for Titanic problem. https://www.kaggle.com/c/titanic/overview
