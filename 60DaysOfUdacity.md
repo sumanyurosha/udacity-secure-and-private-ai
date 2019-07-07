@@ -33,3 +33,7 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 2. Joined study groups and expecting to attend my first virtual meetup tommorow.
 3. Read an article for Getting started on Kaggle(https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0)
 4. Working on my first submission on Kaggle for Titanic problem. https://www.kaggle.com/c/titanic/overview
+
+#Day 9:
+1. Started lesson 6: Differencial Privacy for Deep Learning.
+2. Read an article on analysing the Cricket World Cup 2019(https://medium.com/@arora.nishank91/analysing-cricket-world-cup-data-cd0af7cb1b11)
