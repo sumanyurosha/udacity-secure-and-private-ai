@@ -37,3 +37,7 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 #Day 9:
 1. Started lesson 6: Differencial Privacy for Deep Learning.
 2. Read an article on analysing the Cricket World Cup 2019(https://medium.com/@arora.nishank91/analysing-cricket-world-cup-data-cd0af7cb1b11)
+
+#Day 10:
+1. Completed lesson 6 upto PATE Analysis.
+2. Read the numpy documentation about all the functions used in lesson 6 from here(https://www.numpy.org/devdocs/reference/index.html)
