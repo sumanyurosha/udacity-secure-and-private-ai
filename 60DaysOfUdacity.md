@@ -41,3 +41,7 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 #Day 10:
 1. Completed lesson 6 upto PATE Analysis.
 2. Read the numpy documentation about all the functions used in lesson 6 from here(https://www.numpy.org/devdocs/reference/index.html)
+
+#Day 11:
+1. Advanced in lesson 6 and looking to complete it by tomorrow.
+2. Working on my first problem on Kaggle, on Titanic dataset. Approaching it first by applying binary classification and will then try to design more complex approaches to increase the accuracy. In next attempt will make a neural architecture for it.
