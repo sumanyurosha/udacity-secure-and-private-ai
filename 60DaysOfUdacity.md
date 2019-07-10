@@ -47,4 +47,6 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 2. Working on my first problem on Kaggle, on Titanic dataset. Approaching it first by applying binary classification and will then try to design more complex approaches to increase the accuracy. In next attempt will make a neural architecture for it.
 
 #Day 12:
-Completed lesson 6.
+1. Completed lesson 6.
+2.  Done with the pre-processing of the dataset of Titanic problem. Will be trying out different models on it tomorrow.
+3. Link of problem: https://www.kaggle.com/c/titanic/data
