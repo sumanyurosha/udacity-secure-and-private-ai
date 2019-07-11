@@ -50,3 +50,6 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 1. Completed lesson 6.
 2.  Done with the pre-processing of the dataset of Titanic problem. Will be trying out different models on it tomorrow.
 3. Link of problem: https://www.kaggle.com/c/titanic/data
+
+#Day 13:
+1. Submitted my first problem on Kaggle and got 75% accuracy! Super excited for it. There is a lot of scope of improvement and will work on it.
