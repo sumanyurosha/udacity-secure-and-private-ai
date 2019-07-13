@@ -67,3 +67,9 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 11th July, 2019
 1. Submitted my first problem on Kaggle and got 75% accuracy! Super excited for it. There is a lot of scope of improvement and will work on it.
 2. Link to kernel(https://www.kaggle.com/sumanyurosha/kernelf82b9512ac)
+
+#Day 14:
+13th July, 2019
+1. Working on PATE Analysis to understand it better.
+2. Watched the video, Guest Interview: Privacy at Apple, and got to know how big players like Apple is making sense out of the customer data without impacting the privacy of their customers.
+3. Formed a project group with Sourav Kumar, Labiba and Sabrina to work on Emotion Recognition project.
