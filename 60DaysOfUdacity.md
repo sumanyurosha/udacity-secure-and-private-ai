@@ -75,9 +75,9 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 3. Formed a project group with Sourav Kumar, Labiba and Sabrina to work on Emotion Recognition project.
 
 #Day 15:
-1.) Worked on lesson 6 and started working on the Project given in it. 
-2.) Started reading research paper as a study group activity in #sg_caffeine_coders. Link to the paper:  https://arxiv.org/pdf/1607.00133.pdf
+1. Worked on lesson 6 and started working on the Project given in it. 
+2. Started reading research paper as a study group activity in #sg_caffeine_coders. Link to the paper:  https://arxiv.org/pdf/1607.00133.pdf
 
 #Day 16:
-1.) Revised lesson 6.
-2.) Attended the live webinar on Youtube and got to know how we can start contributing to the Open Source Community and how it can help us get a job.
+1. Revised lesson 6.
+2. Attended the live webinar on Youtube and got to know how we can start contributing to the Open Source Community and how it can help us get a job.
