@@ -75,9 +75,17 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 3. Formed a project group with Sourav Kumar, Labiba and Sabrina to work on Emotion Recognition project.
 
 #Day 15:
+14th July, 2019
 1. Worked on lesson 6 and started working on the Project given in it. 
 2. Started reading research paper as a study group activity in #sg_caffeine_coders. Link to the paper:  https://arxiv.org/pdf/1607.00133.pdf
 
 #Day 16:
+15th July, 2019
 1. Revised lesson 6.
 2. Attended the live webinar on Youtube and got to know how we can start contributing to the Open Source Community and how it can help us get a job.
+
+#Day 17:
+16th July, 2019
+1. Revising the basics of Python from Kaggle's course (https://www.kaggle.com/learn/python).
+2. Working on the basics of NLP to get started with the Emotion Detection Project for #sg_caffene_coders. 
+3. Started reading some medium articles on NLP (https://medium.com/@gon.esbuyo/get-started-with-nlp-part-i-d67ca26cc828).
