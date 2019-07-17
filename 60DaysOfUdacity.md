@@ -89,3 +89,11 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 1. Revising the basics of Python from Kaggle's course (https://www.kaggle.com/learn/python).
 2. Working on the basics of NLP to get started with the Emotion Detection Project for #sg_caffene_coders. 
 3. Started reading some medium articles on NLP (https://medium.com/@gon.esbuyo/get-started-with-nlp-part-i-d67ca26cc828).
+
+#Day 18:
+17th July, 2019
+1. Solving weekly challenge problem in #sg_applied_dl. Repo to my solution: https://github.com/sumanyurosha/kaggle/blob/master/titanic/Titanic.ipynb 
+2. Read other people's kernels to understand better approaches in order to improve my model's accuracy.
+3. Got to know about the importance of data visualisation, data imputation.
+4. Working to organise a dataset for Emotion Recognition Project in #sg_caffeine_coders.
+5. Revising the concepts of NLP.
