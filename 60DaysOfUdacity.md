@@ -97,3 +97,8 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 3. Got to know about the importance of data visualisation, data imputation.
 4. Working to organise a dataset for Emotion Recognition Project in #sg_caffeine_coders.
 5. Revising the concepts of NLP.
+
+#Day 19:
+18th July, 2019
+1. Exploring the datasets available on the net to get started with Emotion Recognition Project.
+2. Read about NLP and it's integration with deep learning from fast.ai (https://www.fast.ai/2019/07/08/fastai-nlp/)
