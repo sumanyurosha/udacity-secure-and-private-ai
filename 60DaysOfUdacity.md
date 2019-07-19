@@ -102,3 +102,8 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 18th July, 2019
 1. Exploring the datasets available on the net to get started with Emotion Recognition Project.
 2. Read about NLP and it's integration with deep learning from fast.ai (https://www.fast.ai/2019/07/08/fastai-nlp/)
+
+#Day 20:
+19th July, 2019
+1. Revising lesson 1 and understanding the network architectures we have used for out mini projects in the course.
+2. Preparing for my deep learning interview and revisiting all the projects I have done for the same.
