@@ -107,3 +107,8 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 19th July, 2019
 1. Revising lesson 1 and understanding the network architectures we have used for out mini projects in the course.
 2. Preparing for my deep learning interview and revisiting all the projects I have done for the same.
+
+#Day 21:
+20th July, 2019
+Attended the #sg_clan zoom meetup with @Manisha @Arka @George Christopoulos @Kapadokia Titus @andreiliphd @Akshay Rajmohan @Halwai Aftab Hasan @Nikita Sukhwal @Govind @Mateusz @A S M Sadiqul Islam @Sumanyu Rosha @Venkata Rathnam Muralidharan.
+Had a great time interacting with them and discussing the cool projects everyone is working on.
