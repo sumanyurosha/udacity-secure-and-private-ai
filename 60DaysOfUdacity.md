@@ -112,3 +112,10 @@ Continued watching the 7th and 8th video of lesson 5. Worked on the Maths involv
 20th July, 2019
 Attended the #sg_clan zoom meetup with @Manisha @Arka @George Christopoulos @Kapadokia Titus @andreiliphd @Akshay Rajmohan @Halwai Aftab Hasan @Nikita Sukhwal @Govind @Mateusz @A S M Sadiqul Islam @Sumanyu Rosha @Venkata Rathnam Muralidharan.
 Had a great time interacting with them and discussing the cool projects everyone is working on.
+
+#Day 22:
+21st July, 2019
+1. Continued revising lesson 1, the training part of the lesson. 
+2. Watched videos from Deep Learning playlist of youtube channel, 3Blue1Brown.(https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+3. Started to get on boarded with NLP for emotion classification project on #sg_caffeine_coders study group and saw a good video on youtube by Siraj Raval. (https://www.youtube.com/watch?v=bDxFvr1gpSU)
+4. As a team of @labiba @sourav kumar and @sabrina for the above mentioned project, we have decided the dataset for emotion recognition and will start working on data exploration from the coming week.
