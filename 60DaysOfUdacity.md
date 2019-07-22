@@ -119,3 +119,8 @@ Had a great time interacting with them and discussing the cool projects everyone
 2. Watched videos from Deep Learning playlist of youtube channel, 3Blue1Brown.(https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 3. Started to get on boarded with NLP for emotion classification project on #sg_caffeine_coders study group and saw a good video on youtube by Siraj Raval. (https://www.youtube.com/watch?v=bDxFvr1gpSU)
 4. As a team of @labiba @sourav kumar and @sabrina for the above mentioned project, we have decided the dataset for emotion recognition and will start working on data exploration from the coming week.
+
+#Day 23:
+22nd July, 2019
+1. I am starting revising previously completed lessons before jumping on to Fedrated Learning so that, I am totally in sync with the course content. 
+2. I have revised till transfer learning part in first lesson and then will start revising differential privacy lessons. 
