@@ -123,4 +123,10 @@ Had a great time interacting with them and discussing the cool projects everyone
 #Day 23:
 22nd July, 2019
 1. I am starting revising previously completed lessons before jumping on to Fedrated Learning so that, I am totally in sync with the course content. 
-2. I have revised till transfer learning part in first lesson and then will start revising differential privacy lessons. 
+2. I have revised till transfer learning part in first lesson and then will start revising differential privacy lessons.
+
+#Day 24:
+23rd July, 2019
+1. Revised differential privacy from lesson 2 and 3, will start working on federated learning from tomorrow onwards.
+2. Had been busy with preparation of my Deep Learning from past week, finally free to start the new lesson.
+3. I also posted about the MNIST Handwritten Digit Classification mini project from lesson 1 on LinkedIn. Although it's a late post but still wanted to share my learnings with my connections over there. Link to my post: https://www.linkedin.com/feed/update/urn:li:activity:6558785182806175745
