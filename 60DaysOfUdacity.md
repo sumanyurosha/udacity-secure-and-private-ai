@@ -130,3 +130,11 @@ Had a great time interacting with them and discussing the cool projects everyone
 1. Revised differential privacy from lesson 2 and 3, will start working on federated learning from tomorrow onwards.
 2. Had been busy with preparation of my Deep Learning from past week, finally free to start the new lesson.
 3. I also posted about the MNIST Handwritten Digit Classification mini project from lesson 1 on LinkedIn. Although it's a late post but still wanted to share my learnings with my connections over there. Link to my post: https://www.linkedin.com/feed/update/urn:li:activity:6558785182806175745
+
+#Day25:
+24th July, 2019
+1. Revised lesson 6, Differential Privacy for Deep Learning and working on the Final Project given in it.
+2. Reading the project work of my friend who used Deep Learning(CNN & RNN) for Fish classification.
+Link to projecr report: https://github.com/kishi001/Udacity_ML_Nanodegree/blob/master/capstone/report.pdf
+3. Sorted out some tutorials which will be helpful for our Emotion Classification Project for study group #sg_caffeine_coders.
+4. Excited for our first team project's first virtual project, will post photos tomorrow. 
