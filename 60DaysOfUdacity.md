@@ -138,3 +138,9 @@ Had a great time interacting with them and discussing the cool projects everyone
 Link to projecr report: https://github.com/kishi001/Udacity_ML_Nanodegree/blob/master/capstone/report.pdf
 3. Sorted out some tutorials which will be helpful for our Emotion Classification Project for study group #sg_caffeine_coders.
 4. Excited for our first team project's first virtual project, will post photos tomorrow. 
+
+#Day 26:
+25th July, 2019
+1. Started working on Federated Learning and completed first 4 videos of it.
+2. Read about Federated Learning from Google AI (https://ai.google/research/pubs/pub45648).
+3. Aiming to complete this lesson by this weekend, so that I can start focussing more on the projects.
