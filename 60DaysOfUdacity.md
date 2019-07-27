@@ -144,3 +144,19 @@ Link to projecr report: https://github.com/kishi001/Udacity_ML_Nanodegree/blob/m
 1. Started working on Federated Learning and completed first 4 videos of it.
 2. Read about Federated Learning from Google AI (https://ai.google/research/pubs/pub45648).
 3. Aiming to complete this lesson by this weekend, so that I can start focussing more on the projects.
+
+#Day 27:
+26th July, 2019
+1. Continued reading about Federated Learning on the Internet. 
+2. Really fascinated by the idea of federated learning and how it helps and works. 
+3. Although it will take me time to get over the Syft way of doing it but I am sure with more practice, I will be able to get it. 
+4. Read the winning articles written by @sourav kumar @Lisa M. Venezia and @Shubhangi Jena in #sg_caffeine_coders. Glad to be present in that study group.
+
+#Day 28:
+27th July, 2019
+1. Completed my mini porject in Federated Learning lesson.
+2. Watched next 4 videos of lesson 7.
+3. Reading about Recommendation Systems to employ a "frequently bought together" feature in my Organisation's website.
+Will love to receive more such article/resource suggestions from all my friends in this channel.
+4. Aiming to wrap up lesson 7 by this Sunday.
+
