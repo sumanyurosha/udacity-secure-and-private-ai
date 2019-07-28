@@ -160,3 +160,7 @@ Link to projecr report: https://github.com/kishi001/Udacity_ML_Nanodegree/blob/m
 Will love to receive more such article/resource suggestions from all my friends in this channel.
 4. Aiming to wrap up lesson 7 by this Sunday.
 
+#Day 29:
+28th July, 2019
+1. Completed lesson 7 "Federated Learning".
+
