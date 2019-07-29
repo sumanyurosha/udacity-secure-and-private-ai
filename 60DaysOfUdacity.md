@@ -164,3 +164,8 @@ Will love to receive more such article/resource suggestions from all my friends 
 28th July, 2019
 1. Completed lesson 7 "Federated Learning".
 
+#Day 30:
+29th July, 2019
+1. Made a team progress report for my team in @sg_caffeince_coders tudy group and submitted it to @shubhangi jeena
+2. Started working on the Final Project for Federated Learning mentioned in the second last video of Lesson 7.
+
