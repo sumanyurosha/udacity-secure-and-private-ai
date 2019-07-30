@@ -171,7 +171,7 @@ Will love to receive more such article/resource suggestions from all my friends 
 
 #Day 31:
 30th July, 2019
-1. Reading about recommendation engines to analyse how I can use deep learning to enhance their performance.
-2. Completed the Final Project in lesson 7 Federated Learning.
+1. Reading about recommendation engines to analyze how I can use deep learning to enhance their performance.
+2. Completed the Final Project using MNIST dataset in lesson 7 Federated Learning.
 3. Started working on lesson 8, Securing Federated Learning.
 
