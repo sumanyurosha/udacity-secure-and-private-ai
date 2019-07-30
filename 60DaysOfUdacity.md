@@ -169,3 +169,9 @@ Will love to receive more such article/resource suggestions from all my friends 
 1. Made a team progress report for my team in @sg_caffeince_coders tudy group and submitted it to @shubhangi jeena
 2. Started working on the Final Project for Federated Learning mentioned in the second last video of Lesson 7.
 
+#Day 31:
+30th July, 2019
+1. Reading about recommendation engines to analyse how I can use deep learning to enhance their performance.
+2. Completed the Final Project in lesson 7 Federated Learning.
+3. Started working on lesson 8, Securing Federated Learning.
+
