@@ -175,3 +175,9 @@ Will love to receive more such article/resource suggestions from all my friends 
 2. Completed the Final Project using MNIST dataset in lesson 7 Federated Learning.
 3. Started working on lesson 8, Securing Federated Learning.
 
+#Day 32:
+31st July, 2019
+1. Started working on Lesson 8 Securing Federated Learning.
+2. Watched first 2 videos of it.
+3. Working on the Project mentioned in 2nd video.
+
