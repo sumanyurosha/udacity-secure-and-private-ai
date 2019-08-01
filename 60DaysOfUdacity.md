@@ -181,3 +181,10 @@ Will love to receive more such article/resource suggestions from all my friends 
 2. Watched first 2 videos of it.
 3. Working on the Project mentioned in 2nd video.
 
+#Day 33:
+1st August, 2019
+1. Completed watching lesson 8, Securing Federated Learning.
+2. Got to know about the amazing Additive Secret Sharing technique and built methods to encrypt, decrypt and add gradients.
+3. Also implemented Fixed Precision Encoding technique to deal with the floating point gradients in real problems.
+4. Now working on the Final Project.
+
