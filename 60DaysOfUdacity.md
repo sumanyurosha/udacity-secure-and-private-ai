@@ -188,3 +188,8 @@ Will love to receive more such article/resource suggestions from all my friends 
 3. Also implemented Fixed Precision Encoding technique to deal with the floating point gradients in real problems.
 4. Now working on the Final Project.
 
+#Day 34:
+3rd August, 2019
+1. Started working on lesson 9, Encrypted Deep Learning.
+2. It is the last lesson of this course and will be very excited to finish it up :-P
+
