@@ -191,5 +191,9 @@ Will love to receive more such article/resource suggestions from all my friends 
 #Day 34:
 3rd August, 2019
 1. Started working on lesson 9, Encrypted Deep Learning.
-2. It is the last lesson of this course and will be very excited to finish it up :-P
+2. It is the last lesson of this course and will be very excited to finish it up :P
+
+#Day 35:
+4th August, 2019
+Working on lesson 9's Encrypted Database Project.
 
