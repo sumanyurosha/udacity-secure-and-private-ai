@@ -197,3 +197,7 @@ Will love to receive more such article/resource suggestions from all my friends 
 4th August, 2019
 Working on lesson 9's Encrypted Database Project.
 
+#Day 36:
+5th August, 2019
+Done upto Encrypted Database Project in lesson 9, now working on the next videos.
+
