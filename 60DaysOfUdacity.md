@@ -201,3 +201,7 @@ Working on lesson 9's Encrypted Database Project.
 5th August, 2019
 Done upto Encrypted Database Project in lesson 9, now working on the next videos.
 
+#Day 37:
+6th August, 2019
+Finally completed this course! Very happy for my achievement. Although I had planned to wrap it up earlier but nothing goes as planned :P Still I am very happy that I have completed the course. Now I will fully dedicate all the coming days to my final project.
+A very special thanks to all the felow mates for the encouragement and help. You guys made my learning path very interesting and enjoyable. 
