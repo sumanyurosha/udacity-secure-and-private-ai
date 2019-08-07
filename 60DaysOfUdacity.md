@@ -204,4 +204,12 @@ Done upto Encrypted Database Project in lesson 9, now working on the next videos
 #Day 37:
 6th August, 2019
 Finally completed this course! Very happy for my achievement. Although I had planned to wrap it up earlier but nothing goes as planned :P Still I am very happy that I have completed the course. Now I will fully dedicate all the coming days to my final project.
-A very special thanks to all the felow mates for the encouragement and help. You guys made my learning path very interesting and enjoyable. 
+A very special thanks to all the felow mates for the encouragement and help. You guys made my learning path very interesting and enjoyable.
+
+#Day 38:
+7th August, 2019
+1. Reading about word embeddings and LSTM for emotion detection project for #sg_caffeine_coders study group.
+2. Saw these two videos to understand more about Embeddings. (https://www.youtube.com/watch?v=5PL0TmQhItY) (https://www.youtube.com/watch?v=186HUTBQnpY)
+3. Reading about it from Pytorch's documentation: https://pytorch.org/docs/stable/nn.html#embedding
+4. Reading about LSTM from Pytorch's documentation: https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
+5. I am following this tutorial to get started with the initial data preprocessing steps (https://github.com/arnaudstiegler/emotion_detection/blob/master/lstm.ipynb)
