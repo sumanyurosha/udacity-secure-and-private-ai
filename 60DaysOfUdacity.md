@@ -213,3 +213,14 @@ A very special thanks to all the felow mates for the encouragement and help. You
 3. Reading about it from Pytorch's documentation: https://pytorch.org/docs/stable/nn.html#embedding
 4. Reading about LSTM from Pytorch's documentation: https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
 5. I am following this tutorial to get started with the initial data preprocessing steps (https://github.com/arnaudstiegler/emotion_detection/blob/master/lstm.ipynb)
+
+#Day 39:
+8th August, 2019
+1. Read a tutorial to understand about word embeddings, Deep Learning with PyTorch https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
+2. Working on Emotion Recognition Project using Deep Learning and PyTroch for #sg_caffeine_coders.
+3. Following the tutorials on Emotion Recognition for better direction.
+4. Following some tutorials for LSTM.
+  https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+  https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+
+
