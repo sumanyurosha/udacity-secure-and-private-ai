@@ -222,5 +222,16 @@ A very special thanks to all the felow mates for the encouragement and help. You
 4. Following some tutorials for LSTM.
   https://colah.github.io/posts/2015-08-Understanding-LSTMs/
   https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+ 
+#Day 40: 
+9th August, 2019
+Had a office party so was not able to do much but still spared some time to read about LSTM. Working on my emotion recognition project and working on the data pre processing part. So far I have configured that we need to store the word vectors on embeddings and need to train them.
+
+#Day 41:
+10th August, 2019:
+1. I Had a virtual meetup with my team mates for Emotion Recognition Project for #sg_caffeine_coders.
+2. We had a discussion about how to pre-pocess the data and how we can proceed with the model selection part.
+3. Currently working on the data pre-processing part. 
+4. Adding some more emotions to our dataset so that we can categorize them into more classes.
 
 
