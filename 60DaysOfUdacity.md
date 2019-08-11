@@ -234,4 +234,14 @@ Had a office party so was not able to do much but still spared some time to read
 3. Currently working on the data pre-processing part. 
 4. Adding some more emotions to our dataset so that we can categorize them into more classes.
 
+#Day 42:
+11th August, 2019:
+1. Done with data preprocessing part for Emotion Recognition Project.
+2. Read articles about data preprocessing for NLP 
+  https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/?source=post_page-----898a84b8bd47----------------------
+  https://www.kaggle.com/saxinou/nlp-01-preprocessing-data
+3. Watched PyCon video for  Applied Deep Learning for NLP using PyTorch
+  https://www.youtube.com/watch?v=VBM1u-UIoI0
+
+
 
