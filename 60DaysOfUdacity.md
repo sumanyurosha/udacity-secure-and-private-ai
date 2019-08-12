@@ -243,5 +243,18 @@ Had a office party so was not able to do much but still spared some time to read
 3. Watched PyCon video for  Applied Deep Learning for NLP using PyTorch
   https://www.youtube.com/watch?v=VBM1u-UIoI0
 
-
+#Day 43:
+12th August, 2019:
+1. Started reading about RNN for the model selection purpose for my team's showcase project on Emotion Recognition.
+2. One very good thing I got to know was RNNs are used wherever we want  context from previous input.
+3. While RNNs give us an advantage that they have a sequential memory but they have a problem of diminishing gradient so for inputs with longer lengths we need Long Short Term Memory RNNs(LSTM) or Gated Recurrent Units(GRU).
+4. Read about RNN from this article: 
+  https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2
+  https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+5. Implementation of RNN from Analytics Vidya:
+  https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
+  and Andrew Trask's blog:
+  https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/?source=post_page-----79e5eb8049c9----------------------
+5. Reading about GRU/LSTM from here:
+  https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
