@@ -257,4 +257,33 @@ Had a office party so was not able to do much but still spared some time to read
   https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/?source=post_page-----79e5eb8049c9----------------------
 5. Reading about GRU/LSTM from here:
   https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+  
+#Day 44:
+13th August, 2019:
+1. I read a very good article about LSTM from here: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+2. I am using GRU for my model for Emotion Recognition.
+3. I have trained my model on 40,000 tweets with 6 diffetent emotions.
+4. I am able to get an Accuracy of 93%
+
+Initial epoch: 
+Epoch 1 Batch 0 Val. Loss 0.3109
+Epoch 1 Batch 100 Val. Loss 0.2826
+Epoch 1 Batch 200 Val. Loss 0.2002
+Epoch 1 Batch 300 Val. Loss 0.0954
+Epoch 1 Batch 400 Val. Loss 0.0513
+Epoch 1 Batch 500 Val. Loss 0.0687
+Epoch 1 Batch 600 Val. Loss 0.0610
+Epoch 1 Loss 0.1405 -- Train Acc. 67.0000 -- Val Acc. 90.0000
+Time taken for 1 epoch 56.8155255317688 sec
+
+Final epoch:
+Epoch 10 Batch 0 Val. Loss 0.0210
+Epoch 10 Batch 100 Val. Loss 0.0126
+Epoch 10 Batch 200 Val. Loss 0.0013
+Epoch 10 Batch 300 Val. Loss 0.0002
+Epoch 10 Batch 400 Val. Loss 0.0031
+Epoch 10 Batch 500 Val. Loss 0.0023
+Epoch 10 Batch 600 Val. Loss 0.0009
+Epoch 10 Loss 0.0093 -- Train Acc. 97.0000 -- Val Acc. 92.0000
+Time taken for 1 epoch 57.25882863998413 sec
 
