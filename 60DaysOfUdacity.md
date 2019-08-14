@@ -286,4 +286,12 @@ Had a office party so was not able to do much but still spared some time to read
     Epoch 10 Batch 600 Val. Loss 0.0009
     Epoch 10 Loss 0.0093 -- Train Acc. 97.0000 -- Val Acc. 92.0000
     Time taken for 1 epoch 57.25882863998413 sec
+    
+#Day 45: 
+14th August, 2019:
+1. Trying to play with my model for emotion recognition so that I can improve the final Validation loss.
+2. Initially used GRU but now want to try with LSTM also.
+3. From tomorrow will start using course contents for it also, so that we can make use of Federated Learning also.
+4. Till then I am also reading Andrew Trask's blog on RNN/LSTM/GRU, he had written it back in 2015 and I am going to read it in 2019 :-P he was so ahead of time! Link to blog: https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/?source=post_page-----79e5eb8049c9----------------------
 
+ 
