@@ -294,4 +294,13 @@ Had a office party so was not able to do much but still spared some time to read
 3. From tomorrow will start using course contents for it also, so that we can make use of Federated Learning also.
 4. Till then I am also reading Andrew Trask's blog on RNN/LSTM/GRU, he had written it back in 2015 and I am going to read it in 2019 :-P he was so ahead of time! Link to blog: https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/?source=post_page-----79e5eb8049c9----------------------
 
+#Day 46:
+15th August, 2019:
+1. Reading some articles for tuning my model for Emotion Recognition, here are the links:
+  https://www.quora.com/How-do-I-tune-the-parameters-for-the-LSTM-RNN-using-Keras-for-time-series-modeling
+  https://nanonets.com/blog/hyperparameter-optimization/
+  https://www.kdnuggets.com/2018/06/taming-lstms-variable-sized-mini-batches-pytorch.html
+2. Parallely working on adding Federated Learning to the project, so that we can get the extra brownie points for including course content.
+Qoute: My body can be down with fever but my spirit is always up and high.
+
  
