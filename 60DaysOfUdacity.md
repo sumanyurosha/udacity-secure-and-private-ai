@@ -228,14 +228,14 @@ A very special thanks to all the felow mates for the encouragement and help. You
 Had a office party so was not able to do much but still spared some time to read about LSTM. Working on my emotion recognition project and working on the data pre processing part. So far I have configured that we need to store the word vectors on embeddings and need to train them.
 
 #Day 41:
-10th August, 2019:
+10th August, 2019
 1. I Had a virtual meetup with my team mates for Emotion Recognition Project for #sg_caffeine_coders.
 2. We had a discussion about how to pre-pocess the data and how we can proceed with the model selection part.
 3. Currently working on the data pre-processing part. 
 4. Adding some more emotions to our dataset so that we can categorize them into more classes.
 
 #Day 42:
-11th August, 2019:
+11th August, 2019
 1. Done with data preprocessing part for Emotion Recognition Project.
 2. Read articles about data preprocessing for NLP 
   https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/?source=post_page-----898a84b8bd47----------------------
@@ -244,7 +244,7 @@ Had a office party so was not able to do much but still spared some time to read
   https://www.youtube.com/watch?v=VBM1u-UIoI0
 
 #Day 43:
-12th August, 2019:
+12th August, 2019
 1. Started reading about RNN for the model selection purpose for my team's showcase project on Emotion Recognition.
 2. One very good thing I got to know was RNNs are used wherever we want  context from previous input.
 3. While RNNs give us an advantage that they have a sequential memory but they have a problem of diminishing gradient so for inputs with longer lengths we need Long Short Term Memory RNNs(LSTM) or Gated Recurrent Units(GRU).
@@ -259,7 +259,7 @@ Had a office party so was not able to do much but still spared some time to read
   https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
   
 #Day 44:
-13th August, 2019:
+13th August, 2019
 1. I read a very good article about LSTM from here: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 2. I am using GRU for my model for Emotion Recognition.
 3. I have trained my model on 40,000 tweets with 6 diffetent emotions.
@@ -288,14 +288,14 @@ Had a office party so was not able to do much but still spared some time to read
     Time taken for 1 epoch 57.25882863998413 sec
     
 #Day 45: 
-14th August, 2019:
+14th August, 2019
 1. Trying to play with my model for emotion recognition so that I can improve the final Validation loss.
 2. Initially used GRU but now want to try with LSTM also.
 3. From tomorrow will start using course contents for it also, so that we can make use of Federated Learning also.
 4. Till then I am also reading Andrew Trask's blog on RNN/LSTM/GRU, he had written it back in 2015 and I am going to read it in 2019 :-P he was so ahead of time! Link to blog: https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/?source=post_page-----79e5eb8049c9----------------------
 
 #Day 46:
-15th August, 2019:
+15th August, 2019
 1. Reading some articles for tuning my model for Emotion Recognition, here are the links:
   https://www.quora.com/How-do-I-tune-the-parameters-for-the-LSTM-RNN-using-Keras-for-time-series-modeling
   https://nanonets.com/blog/hyperparameter-optimization/
@@ -303,4 +303,7 @@ Had a office party so was not able to do much but still spared some time to read
 2. Parallely working on adding Federated Learning to the project, so that we can get the extra brownie points for including course content.
 Qoute: My body can be down with fever but my spirit is always up and high.
 
+#day 47:
+16th August, 2019
+1. Only one update from my side today, working on applying Federated Learning to my showcase project.
  
