@@ -197,3 +197,113 @@ Will love to receive more such article/resource suggestions from all my friends 
 4th August, 2019
 Working on lesson 9's Encrypted Database Project.
 
+#Day 36:
+5th August, 2019
+Done upto Encrypted Database Project in lesson 9, now working on the next videos.
+
+#Day 37:
+6th August, 2019
+Finally completed this course! Very happy for my achievement. Although I had planned to wrap it up earlier but nothing goes as planned :P Still I am very happy that I have completed the course. Now I will fully dedicate all the coming days to my final project.
+A very special thanks to all the felow mates for the encouragement and help. You guys made my learning path very interesting and enjoyable.
+
+#Day 38:
+7th August, 2019
+1. Reading about word embeddings and LSTM for emotion detection project for #sg_caffeine_coders study group.
+2. Saw these two videos to understand more about Embeddings. (https://www.youtube.com/watch?v=5PL0TmQhItY) (https://www.youtube.com/watch?v=186HUTBQnpY)
+3. Reading about it from Pytorch's documentation: https://pytorch.org/docs/stable/nn.html#embedding
+4. Reading about LSTM from Pytorch's documentation: https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
+5. I am following this tutorial to get started with the initial data preprocessing steps (https://github.com/arnaudstiegler/emotion_detection/blob/master/lstm.ipynb)
+
+#Day 39:
+8th August, 2019
+1. Read a tutorial to understand about word embeddings, Deep Learning with PyTorch https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
+2. Working on Emotion Recognition Project using Deep Learning and PyTroch for #sg_caffeine_coders.
+3. Following the tutorials on Emotion Recognition for better direction.
+4. Following some tutorials for LSTM.
+  https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+  https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+ 
+#Day 40: 
+9th August, 2019
+Had a office party so was not able to do much but still spared some time to read about LSTM. Working on my emotion recognition project and working on the data pre processing part. So far I have configured that we need to store the word vectors on embeddings and need to train them.
+
+#Day 41:
+10th August, 2019
+1. I Had a virtual meetup with my team mates for Emotion Recognition Project for #sg_caffeine_coders.
+2. We had a discussion about how to pre-pocess the data and how we can proceed with the model selection part.
+3. Currently working on the data pre-processing part. 
+4. Adding some more emotions to our dataset so that we can categorize them into more classes.
+
+#Day 42:
+11th August, 2019
+1. Done with data preprocessing part for Emotion Recognition Project.
+2. Read articles about data preprocessing for NLP 
+  https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/?source=post_page-----898a84b8bd47----------------------
+  https://www.kaggle.com/saxinou/nlp-01-preprocessing-data
+3. Watched PyCon video for  Applied Deep Learning for NLP using PyTorch
+  https://www.youtube.com/watch?v=VBM1u-UIoI0
+
+#Day 43:
+12th August, 2019
+1. Started reading about RNN for the model selection purpose for my team's showcase project on Emotion Recognition.
+2. One very good thing I got to know was RNNs are used wherever we want  context from previous input.
+3. While RNNs give us an advantage that they have a sequential memory but they have a problem of diminishing gradient so for inputs with longer lengths we need Long Short Term Memory RNNs(LSTM) or Gated Recurrent Units(GRU).
+4. Read about RNN from this article: 
+  https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2
+  https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+5. Implementation of RNN from Analytics Vidya:
+  https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
+  and Andrew Trask's blog:
+  https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/?source=post_page-----79e5eb8049c9----------------------
+5. Reading about GRU/LSTM from here:
+  https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+  
+#Day 44:
+13th August, 2019
+1. I read a very good article about LSTM from here: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+2. I am using GRU for my model for Emotion Recognition.
+3. I have trained my model on 40,000 tweets with 6 diffetent emotions.
+4. I am able to get an Accuracy of 93%
+
+  Initial epoch: 
+    Epoch 1 Batch 0 Val. Loss 0.3109
+    Epoch 1 Batch 100 Val. Loss 0.2826
+    Epoch 1 Batch 200 Val. Loss 0.2002
+    Epoch 1 Batch 300 Val. Loss 0.0954
+    Epoch 1 Batch 400 Val. Loss 0.0513
+    Epoch 1 Batch 500 Val. Loss 0.0687
+    Epoch 1 Batch 600 Val. Loss 0.0610
+    Epoch 1 Loss 0.1405 -- Train Acc. 67.0000 -- Val Acc. 90.0000
+    Time taken for 1 epoch 56.8155255317688 sec
+
+  Final epoch:
+    Epoch 10 Batch 0 Val. Loss 0.0210
+    Epoch 10 Batch 100 Val. Loss 0.0126
+    Epoch 10 Batch 200 Val. Loss 0.0013
+    Epoch 10 Batch 300 Val. Loss 0.0002
+    Epoch 10 Batch 400 Val. Loss 0.0031
+    Epoch 10 Batch 500 Val. Loss 0.0023
+    Epoch 10 Batch 600 Val. Loss 0.0009
+    Epoch 10 Loss 0.0093 -- Train Acc. 97.0000 -- Val Acc. 92.0000
+    Time taken for 1 epoch 57.25882863998413 sec
+    
+#Day 45: 
+14th August, 2019
+1. Trying to play with my model for emotion recognition so that I can improve the final Validation loss.
+2. Initially used GRU but now want to try with LSTM also.
+3. From tomorrow will start using course contents for it also, so that we can make use of Federated Learning also.
+4. Till then I am also reading Andrew Trask's blog on RNN/LSTM/GRU, he had written it back in 2015 and I am going to read it in 2019 :-P he was so ahead of time! Link to blog: https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/?source=post_page-----79e5eb8049c9----------------------
+
+#Day 46:
+15th August, 2019
+1. Reading some articles for tuning my model for Emotion Recognition, here are the links:
+  https://www.quora.com/How-do-I-tune-the-parameters-for-the-LSTM-RNN-using-Keras-for-time-series-modeling
+  https://nanonets.com/blog/hyperparameter-optimization/
+  https://www.kdnuggets.com/2018/06/taming-lstms-variable-sized-mini-batches-pytorch.html
+2. Parallely working on adding Federated Learning to the project, so that we can get the extra brownie points for including course content.
+Qoute: My body can be down with fever but my spirit is always up and high.
+
+#day 47:
+16th August, 2019
+1. Only one update from my side today, working on applying Federated Learning to my showcase project.
+ 
