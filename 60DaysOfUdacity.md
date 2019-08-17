@@ -303,7 +303,11 @@ Had a office party so was not able to do much but still spared some time to read
 2. Parallely working on adding Federated Learning to the project, so that we can get the extra brownie points for including course content.
 Qoute: My body can be down with fever but my spirit is always up and high.
 
-#day 47:
+#Day 47:
 16th August, 2019
 1. Only one update from my side today, working on applying Federated Learning to my showcase project.
- 
+
+#Day 48:
+17th August, 2019
+1. Has been working for the whole day in resolving the environment issues related to enabling my Nvidia gpu in pysyft environment so that I can use my local system to work on deep learning with Syft. 
+2. Experiments with Federated learning has been successful on other datasets so for, now it's time for adding it to the showcase project. 
