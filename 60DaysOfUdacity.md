@@ -311,3 +311,9 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 17th August, 2019
 1. Has been working for the whole day in resolving the environment issues related to enabling my Nvidia gpu in pysyft environment so that I can use my local system to work on deep learning with Syft. 
 2. Experiments with Federated learning has been successful on other datasets so for, now it's time for adding it to the showcase project. 
+
+#Day 49:
+18th August, 2019
+1. After dedicating 3 days to implement Federated Learning to Showcase Project I came to know that LSTM and RNN is not supported by Syft.
+2. I have found a workaround for it and will try to implement that to it. It will be good if it works.
+3. Exploring some options to hook with the Showcase Project to enhance it's applications.
