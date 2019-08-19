@@ -317,3 +317,10 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 1. After dedicating 3 days to implement Federated Learning to Showcase Project I came to know that LSTM and RNN is not supported by Syft.
 2. I have found a workaround for it and will try to implement that to it. It will be good if it works.
 3. Exploring some options to hook with the Showcase Project to enhance it's applications.
+
+#Day 50:
+19th August, 2019
+1. Now adding the extra flavour to our showcase project, my script is running and downloading the tweets.
+2. Our model is ready now my team members are also working on it.
+3. The preprocessing for live data is also done.
+4. Will try to deliver the best for it.
