@@ -324,3 +324,8 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 2. Our model is ready now my team members are also working on it.
 3. The preprocessing for live data is also done.
 4. Will try to deliver the best for it.
+
+#Day 51:
+20th August, 2019
+1. Preparing readme file for the project.
+2. Giving the final touches to the project.
