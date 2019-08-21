@@ -333,5 +333,6 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 #Day52:
 21st August, 2019
 1. Submitted the showcase project with my team @sabrina @labiba @sourav kumar
-2. Although we had submitted our project at the last moment with just few minutes remaining but we enjoyed a lot in the whole process and the experience was so wonderful and great. 
-3. [Link to repo](https://github.com/aksht94/UdacityOpenSource/tree/master/Federated%20Emotion%20Recogniton)
+2. Although we had submitted our project at the last moment with just few minutes remaining but we enjoyed a lot in the whole process and the experience was so wonderful and great.
+3. And I have also submitted our project in #sg_caffeine_coders
+4. [Link to repo](https://github.com/aksht94/UdacityOpenSource/tree/master/Federated%20Emotion%20Recogniton)
