@@ -336,3 +336,9 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 2. Although we had submitted our project at the last moment with just few minutes remaining but we enjoyed a lot in the whole process and the experience was so wonderful and great.
 3. And I have also submitted our project in #sg_caffeine_coders
 4. [Link to repo](https://github.com/aksht94/UdacityOpenSource/tree/master/Federated%20Emotion%20Recogniton)
+
+#Day53:
+22nd August, 2019
+1. Working on a project to extract live emotions from tweet text in real time.
+2. Currently I am downloading tweets data on #brexit to collect a good amount of dataset.
+3. Planning to use my emotion detection project for it.
