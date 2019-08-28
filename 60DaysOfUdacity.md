@@ -342,3 +342,32 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 1. Working on a project to extract live emotions from tweet text in real time.
 2. Currently I am downloading tweets data on #brexit to collect a good amount of dataset.
 3. Planning to use my emotion detection project for it.
+
+#Day 54:
+23rd August, 2019
+1. Read a very informative article on Privacy Preserving Machine Learning.
+2. Link to article:  https://www.google.com/url?sa=t&source=web&rct=j&url=https://arxiv.org/pdf/1804.11238&ved=2ahUKEwjV_YSp6JjkAhXYF3IKHSEyD_UQFjABegQIAhAB&usg=AOvVaw0CBHdiziAziRuDa9PRKV6S
+3. This article presents about the threats AI causes and the solutions that can help us preserving our Privacy. 
+
+#Day 55:
+24th August, 2019
+1. Since the scholarship phase is going to end and the showcase project is also submitted, now I revisiting all the topics covered in this course. 
+2. I have started revising Differential Privacy. 
+3. Continued reading this pdf document and it is very informative, link : https://www.google.com/url?sa=t&source=web&rct=j&url=https://arxiv.org/pdf/1804.11238&ved=2ahUKEwjV_YSp6JjkAhXYF3IKHSEyD_UQFjABegQIAhAB&usg=AOvVaw0CBHdiziAziRuDa9PRKV6S
+
+#Day 56:
+25th August, 2019
+1. Revising the concepts of Global Differential Privacy and PATE Analysis. 
+2. Watched a webinar on PATE Analysis, would like to thank @Ateniola Oluwatobi Victor for providing this webinar. It is very useful indeed. 
+3. Went through the code for this explanation present at the repo provided by him at https://github.com/nerytompz/Differential-privacy-for-deeplearning-project. 
+
+#Day 57:
+26th August, 2019
+1. Revising the Federated Learning from my notes. 
+2. Attended today's AMA Session. 
+3. Going through the projects of fellow scholars in #project-showcase-challenge chennel and find some projects to be very cool, starring their repos and planning to study the most of them since they will eventually help me learn a lot more.
+
+#Day 58:
+27th August, 2019
+1. Posted about my team's showcase project in #project_showcase_challenge. Link to thread: https://secureprivataischolar.slack.com/archives/CMHLLUAE5/p1566920417094600
+2. Going through the projects of fellow scholars and find some projects to be very cool, starring their repos and planning to study the most of them since they will eventually help me learn a lot more.
