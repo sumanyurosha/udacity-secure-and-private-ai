@@ -371,3 +371,9 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 27th August, 2019
 1. Posted about my team's showcase project in #project_showcase_challenge. Link to thread: https://secureprivataischolar.slack.com/archives/CMHLLUAE5/p1566920417094600
 2. Going through the projects of fellow scholars and find some projects to be very cool, starring their repos and planning to study the most of them since they will eventually help me learn a lot more.
+
+#Day 59:
+28th August, 2019
+1. Went through the projects of fellow scholars and saving their repos.
+2. Went through the course content and made sure that I have completed the course.
+3. Working on extending my project to integrate real time output with my model.
