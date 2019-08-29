@@ -377,3 +377,13 @@ Qoute: My body can be down with fever but my spirit is always up and high.
 1. Went through the projects of fellow scholars and saving their repos.
 2. Went through the course content and made sure that I have completed the course.
 3. Working on extending my project to integrate real time output with my model.
+
+#Day 60:
+29th August, 2019
+1. Attended today's AMA Session and contributed to it.
+2. Finally I have completed my #60dayofudacity challenge, I am feeling very happy to achieve this feat and it would not have been possible without the seamless support of this awesome community.
+3. I had learnt a lot during the course of this Scholarship phase and will try to continue learning with a same pace.
+4. Now, I am exploring about making a project on Language Translation using PyTorch from German to English and English to German, also read a few articles related to it: 
+https://towardsdatascience.com/language-translation-with-rnns-d84d43b40571
+https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa
+https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/
